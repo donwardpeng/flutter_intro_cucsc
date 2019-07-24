@@ -5,7 +5,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   // Declare a set list of images to cycle through
   final List<Image> _itemImages = [
-    Image.asset('assets/cucsc.png'),
+    Image.asset('assets/cucsc.jpeg'),
     Image.asset('assets/u_of_w.png'),
     Image.asset('assets/vacation.jpg')
   ];
@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+       title: 'CUCSC Conference',
         home: Scaffold(
             appBar: AppBar(
               title: Text('CUCSC Conference'),
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
                   margin: EdgeInsets.all(8),
                   child: Column(
                     children: <Widget>[
-                      Image.asset('assets/cucsc.png'),
+                      Image.asset('assets/cucsc.jpeg'),
                       Padding(
                         padding: const EdgeInsets.all(8),
                       ),

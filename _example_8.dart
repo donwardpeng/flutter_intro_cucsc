@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
             title: Text('CUCSC Conference'),
           ),
           body: Card(child: Column(children: <Widget>[
-            Image.asset('assets/cucsc.png')
+            Image.asset('assets/cucsc.jpeg')
           ],),)
         ));
   }
