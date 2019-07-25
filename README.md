@@ -1,7 +1,7 @@
 # Canadian Undergraduate Computer Science Conference Flutter Presentations and Code by Don Ward
 
 ## What is this?
-This repo contains the slide decks and accompanying example project for Don Ward's Flutter Presentations at the Canadian Undergraduate Computer Science conference in July 2019.
+This repo contains the slide decks and accompanying example project for Don Ward's Flutter Presentations at the Canadian Undergraduate Computer Science conference (http://www.cucsc.ca/) in July 2019. 
 
 ## Where can I find more info?
 Additionally, below are some more resources to get you started with Flutter:
