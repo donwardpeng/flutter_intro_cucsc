@@ -1,7 +1,7 @@
-# Detroit Tech Watch Flutter Presentation by Don Ward
+# Canadian Undergraduate Computer Science Conference Flutter Presentations and Code by Don Ward
 
 ## What is this?
-This repo contains the slide deck and accompanying example project for Don Ward's Flutter Presentation at the Detroit Tech Watch conference on June 29, 2019.
+This repo contains the slide decks and accompanying example project for Don Ward's Flutter Presentations at the Canadian Undergraduate Computer Science conference (http://www.cucsc.ca/) in July 2019. 
 
 ## Where can I find more info?
 Additionally, below are some more resources to get you started with Flutter:
